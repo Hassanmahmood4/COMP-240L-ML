@@ -8,3 +8,4 @@ assets/
 *.egg-info/
 .pytest_cache/
 .ipynb_checkpoints/
+tools/
