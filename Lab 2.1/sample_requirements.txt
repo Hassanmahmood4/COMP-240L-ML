@@ -1,0 +1,12 @@
+# Sample requirements for Lab 2.1 Task 4
+
+numpy>=1.26.0
+pandas>=2.0.0
+
+# This package is intentionally missing / unlikely installed
+notarealpackagexyz>=1.0.0
+
+scikit-learn>=1.3.0
+
+# blank line above is intentional
+matplotlib>=3.8.0
