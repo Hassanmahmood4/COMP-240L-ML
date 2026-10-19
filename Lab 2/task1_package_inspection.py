@@ -1,5 +1,5 @@
 """
-Lab 2.1 Task 1:
+Lab 2 Task 1:
 Use python -m pip show on numpy and scikit-learn.
 Report the version, location, and packages each one requires.
 """

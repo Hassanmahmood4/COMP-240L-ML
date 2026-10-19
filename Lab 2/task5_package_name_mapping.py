@@ -1,5 +1,5 @@
 """
-Lab 2.1 Task 5:
+Lab 2 Task 5:
 State the import name for scikit-learn, opencv-python, Pillow and PyYAML,
 then verify with importlib.util.find_spec (install packages if needed).
 """

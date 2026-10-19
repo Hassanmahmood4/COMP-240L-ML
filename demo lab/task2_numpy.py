@@ -1,5 +1,5 @@
 """
-Lab 1 Task 2:
+demo lab Task 2:
 Create a 3x4 array of random integers from 0 to 9 (np.random.seed(0)).
 Compute row means, column maximums, transpose, and reshape to 4x3.
 """

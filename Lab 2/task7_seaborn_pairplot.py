@@ -1,5 +1,5 @@
 """
-Lab 2.1 Task 7:
+Lab 2 Task 7:
 Create a seaborn pair plot of four Wine features coloured by cultivar
 and write three observations.
 """

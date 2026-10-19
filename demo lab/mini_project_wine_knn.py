@@ -1,5 +1,5 @@
 """
-Lab 1 Mini Project: Wine dataset exploration and k-NN classification
+demo lab Mini Project: Wine dataset exploration and k-NN classification
 
 1. Load Wine into a DataFrame; show shape, class distribution, summary stats
 2. At least two meaningful plots

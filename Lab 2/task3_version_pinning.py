@@ -1,5 +1,5 @@
 """
-Lab 2.1 Task 3:
+Lab 2 Task 3:
 In the mlenv virtual environment, install a specific older numpy version,
 confirm with importlib.metadata, then upgrade it back.
 """

@@ -1,5 +1,5 @@
 """
-Lab 1 Task 5:
+demo lab Task 5:
 Train k-NN with k = 1, 3, 5, 7, 9, 15, 25.
 Record training and test accuracy for each. Discuss best k and k = 1.
 """

@@ -1,5 +1,5 @@
 """
-Lab 2.1 Task 2:
+Lab 2 Task 2:
 Create a virtual environment named mlenv, activate it (via its python),
 install pandas and matplotlib only, and run pip list.
 Explain why more than two packages appear.

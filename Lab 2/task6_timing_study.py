@@ -1,5 +1,5 @@
 """
-Lab 2.1 Task 6:
+Lab 2 Task 6:
 Compare NumPy vs pure-Python loop for array sizes 10^3 ... 10^7.
 Tabulate times and speed-up; discuss how speed-up behaves.
 """

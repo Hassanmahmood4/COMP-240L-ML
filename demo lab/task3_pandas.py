@@ -1,5 +1,5 @@
 """
-Lab 1 Task 3:
+demo lab Task 3:
 From the Iris DataFrame:
 (a) select only the virginica rows
 (b) compute the mean of every feature for each species using groupby

@@ -1,5 +1,5 @@
 """
-Lab 1 Task 6:
+demo lab Task 6:
 Repeat the k-NN experiment with test sizes 10%, 20%, 30%, and 50%.
 Observe how test accuracy and its stability change.
 """

@@ -1,5 +1,5 @@
 """
-Lab 1 Task 1:
+demo lab Task 1:
 Print the Python version and the version of every library used on this machine.
 State whether Anaconda, pip, or Colab was used.
 """

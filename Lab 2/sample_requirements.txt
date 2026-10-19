@@ -1,4 +1,4 @@
-# Sample requirements for Lab 2.1 Task 4
+# Sample requirements for Lab 2 Task 4
 
 numpy>=1.26.0
 pandas>=2.0.0

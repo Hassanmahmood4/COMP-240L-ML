@@ -1,5 +1,5 @@
 """
-Lab 2.1 Task 8 (part A):
+Lab 2 Task 8 (part A):
 Train a Wine classification pipeline and save it with joblib.dump.
 """
 

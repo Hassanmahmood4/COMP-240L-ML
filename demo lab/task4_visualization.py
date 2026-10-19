@@ -1,5 +1,5 @@
 """
-Lab 1 Task 4:
+demo lab Task 4:
 Plot sepal length against sepal width coloured by species.
 Compare whether this pair separates classes as well as the petal pair.
 """

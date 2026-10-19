@@ -1,5 +1,5 @@
 """
-Lab 1 Task 7:
+demo lab Task 7:
 Predict the species for three new flowers (plausible measurements)
 and report the class probabilities.
 """

@@ -1,5 +1,5 @@
 """
-Lab 2.1 Task 8 (part B):
+Lab 2 Task 8 (part B):
 Reload the saved pipeline in a separate script and predict the cultivar
 of the first five rows of the Wine dataset.
 """

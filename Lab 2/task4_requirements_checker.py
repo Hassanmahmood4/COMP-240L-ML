@@ -1,5 +1,5 @@
 """
-Lab 2.1 Task 4:
+Lab 2 Task 4:
 Extend check_requirements() so it ignores blank lines and comments,
 supports name>=version lines, and prints a clear summary.
 """
